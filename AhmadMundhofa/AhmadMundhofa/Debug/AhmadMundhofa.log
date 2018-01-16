@@ -1,0 +1,176 @@
+﻿  AhmadMundhofa.cpp
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(134): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(138): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(140): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(146): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(147): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(150): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(246): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(256): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(299): warning C4018: '<': signed/unsigned mismatch
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(378): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(380): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(381): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(382): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(442): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(443): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(444): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(453): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(454): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(455): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(464): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(465): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(475): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(476): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(477): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(486): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(487): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(488): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(555): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(555): note: placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+  d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(555): note: the missing variadic argument 4 is required by format string '%d'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(559): warning C4473: 'printf' : not enough arguments passed for format string
+  d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(559): note: placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+  d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(559): note: the missing variadic argument 4 is required by format string '%d'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(617): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(625): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(626): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(627): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(633): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(635): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(636): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(637): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(644): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(645): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(646): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(700): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(701): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(702): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(709): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(710): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(711): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(745): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(754): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(755): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(756): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(764): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(765): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(766): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(779): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(780): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(781): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(789): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(790): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(791): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(857): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(861): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(862): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(865): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(866): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(867): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(873): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(875): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(876): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(877): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(884): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(885): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(886): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(930): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(938): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(939): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(940): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(947): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(948): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(949): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(952): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(953): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(956): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(957): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(958): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(961): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(962): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(963): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(965): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(966): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(967): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(972): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(974): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(975): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(976): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(983): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(984): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(985): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(992): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(993): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(994): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(999): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1001): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1002): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1003): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1082): warning C4305: '=': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1090): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1098): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1099): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1144): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1148): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1149): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1152): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1153): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1161): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1256): warning C4305: '=': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1272): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1274): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1277): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1278): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1281): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1282): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1283): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1290): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1291): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1292): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1300): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1301): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1436): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1789): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1860): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(1930): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\lecturer\semester 5\visual studio file\ahmadmundhofa\ahmadmundhofa\ahmadmundhofa.cpp(317): warning C4715: 'strWord': not all control paths return a value
+  AhmadMundhofa.vcxproj -> D:\Lecturer\Semester 5\Visual Studio File\AhmadMundhofa\Debug\AhmadMundhofa.exe
